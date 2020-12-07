@@ -1,7 +1,9 @@
-Horiseon Social Solution Services, Inc. Optimization Project
+# Horiseon Social Solution Services, Inc.
 
 
-Description: 
+## Description 
 
-An initiative to enhance search engine optimization and refactor existing code to reach accessibilty standards.
+Using search engine optimization, the latest social media marketing strategies, while also managing your online reputation, Horiseon enhances web visibility and brings clients directly to your website. As digital traffic increases, advertising costs decrease, eventually becoming obsolete.
 
+<a href="horiseon-home.png">
+    <img src="horiseon-home.png" alt="Horiseon Homepage" width="400">
