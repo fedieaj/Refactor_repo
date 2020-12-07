@@ -5,9 +5,6 @@
 
 Using search engine optimization, the latest social media marketing strategies, while also managing your online reputation, Horiseon enhances web visibility and brings clients directly to your website. As digital traffic increases, advertising costs decrease, eventually becoming obsolete.
 
-![Horiseon Homepage](relative/path/to/img.jpg?raw=true "horiseon-home.png")
 
+![horiseon-home](https://user-images.githubusercontent.com/74513158/101303518-ca98c900-3803-11eb-8027-3507e149ae80.png)
 
-
-<a href="horiseon-home.png">
-    <img src="horiseon-home.png" alt="Horiseon Homepage" width="400">
